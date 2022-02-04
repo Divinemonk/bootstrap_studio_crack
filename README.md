@@ -16,7 +16,7 @@ Bootstrap Studio is a proprietary `web design` and `development` application. It
    
 <br>
 
-Get More Infomation at [bootstrapstudio.io](https://bootstrapstudio.io/)
+### Get More Infomation at [bootstrapstudio.io](https://bootstrapstudio.io/)
 
 <br>
 
