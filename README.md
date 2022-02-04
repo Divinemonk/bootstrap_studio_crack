@@ -1,10 +1,10 @@
    
    
-<img src="img/isr-logo.png" alt="Filmora X - Unlocked License" align='left' width='150' height='150'> 
+<img src="img/bs-logo.png" alt="Bootstrap Studio - License Unlocked" align='left' width='150' height='150'> 
 
-# Bootstrap Studio Free 
+# Bootstrap Studio
    
-Icecream Screen Recorder is an `easy-to-use` screen recording software that enables you to `record` any area of your screen or save it as a `screenshot`. Record `apps` and `games`, `video tutorials`, `webinars`, `live streams`, `Skype calls` and much more. You can record screen along with `audio` and `webcam`.
+Bootstrap Studio is a proprietary `web design` and `development` application. It offers a large number of components for building `responsive pages` including `headers`, `footers`, `galleries` and `slideshows` along with basic elements such as `spans` and `divs`. The program can be used for building `websites` and `prototypes`.
    
    
 <br>
