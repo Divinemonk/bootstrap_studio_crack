@@ -10,7 +10,7 @@ Bootstrap Studio is a proprietary `web design` and `development` application. It
 <br>
 <br>
 
-<img src="img/isr-d.jpg" alt="Filmora X - Unlocked Versions"> 
+<img src="img/bs-d.jpg" alt="Bootstrap Studio - Use without entering license"> 
 
 > No Watermark on exported videos, All pro fratures unlocked !
    
